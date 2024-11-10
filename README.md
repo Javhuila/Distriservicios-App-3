@@ -1,8 +1,22 @@
-# distriservicios_app_3
+# Distriservicios_app_3
 
-A new Flutter project.
+Una app en hecha con Flutter con VScode especializada en Android!!!
 
-## Getting Started
+## Bienvenidos a Distriservicios
+
+Este proyecto esta enfocado a la empresa de Distriservicios S.A E.S.P.
+
+## Uso del Proyecto
+- Mirar en los archivos "android/app/buil.gradle", para detallar la version, para arrancar el proyecto.
+- Conectado a Firebase(Autenticación y Firestore Database).
+. No se puede conectar a Firebase Storage, ya que está bloqueado. (Sorry :P).
+- Conectado a la API de Google Drive.(Revisar documentación en el siguiente link)
+https://developers.google.com/drive/api/guides/about-sdk?hl=es-419
+- En el archivo pubspec.yaml, pueden observar los paquetes que requiere este proyecto!!!
+Nota: Para rendimiento, usar las propiedades que proporciona el paquete de "Get" o "GetX".
+  Para saber más, visita la página de: pub.dev
+
+  ## Getting Started
 
 This project is a starting point for a Flutter application.
 
