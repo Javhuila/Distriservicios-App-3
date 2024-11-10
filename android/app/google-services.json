@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1043020626769",
+    "project_id": "distriservicios-app-3",
+    "storage_bucket": "distriservicios-app-3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043020626769:android:1fe42748a5ebf4a309f170",
+        "android_client_info": {
+          "package_name": "com.example.distriservicios_app_3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043020626769-6ra5vk11nkvsv73f33sggbqalovrack5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.distriservicios_app_3",
+            "certificate_hash": "6b44124a4a574515a9ad5d2cc01bccdbbc54218f"
+          }
+        },
+        {
+          "client_id": "1043020626769-oc8n9gediuus63sns4r94cp50k2s2fjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwO9ut16__uNasL0CNSB-_fM92pmvWs8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043020626769-oc8n9gediuus63sns4r94cp50k2s2fjp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1043020626769-34o54cbit6cbho1etpt35h26ia0i0351.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.distriserviciosApp3"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
